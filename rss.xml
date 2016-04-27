@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[photomi]]></title>
+        <description><![CDATA[photomi]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 27 Apr 2016 08:33:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Kleine kinderen zijn dol op boekjes. Mijn kids hebben hun eerste woordjes geleerd uit de bekende kartonnen boekjes met 1 foto per kartonnen pagina en daaronder het woord.</p>]]></description>
+            <link>undefinedkleine-kinderen-zijn-dol-op-boekjes-mijn-kids-hebben-hun-ee/index.html</link>
+            <guid isPermaLink="false">3c67c3a3-227c-47a9-8bb9-ba161f88f82d</guid>
+            <pubDate>Wed, 27 Apr 2016 08:33:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
