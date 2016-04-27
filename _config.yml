@@ -1,0 +1,28 @@
+name: photomi
+favicon: null
+layout_spectrum: 0.44345358735881746
+typography_spectrum: 0.42628878192044795
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.0367680371273309
+  lightness: 0.8716525053605437
+  saturation: 0.7345895005855709
+  rhythmicContrast: 0.8726722723804414
+purpose: []
